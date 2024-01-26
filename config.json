@@ -1,13 +1,13 @@
 {
-    "token":"YOUR BOT TOKEN HERE",
+    "token":"MTIwMDExMDc1NjAxMjc2OTQwMA.GZmayv.lGeZc7yk0v45vogjD0oKl5rtbxFg7ztpEylsS0",
 
-    "ticketCategoryID":"THE ID OF THE CATEGORY FOR TICKETS TO BE OPENED (MUST BE IN MODMAIL SERVER!)",
+    "ticketCategoryID":"1198251788512534581",
 
-    "modmailServerId":"ID OF THE MODMAIL SERVER",
+    "modmailServerId":"",
 
-    "thumb":"LINK TO THE IMAGE TO BE USED FOR MODMAIL EMBEDS",
+    "thumb":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fjaneth%2Fhow-to-program-discord-message-embeds-with-buttons-49dm&psig=AOvVaw0dgmGuuwidemginsZmeVmU&ust=1706360464874000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD18pyO-4MDFQAAAAAdAAAAABAQ",
 
-    "modmailLogChannelId":"ID OF THE LOGGING CHANNEL",
+    "modmailLogChannelId":"1198251788512534582",
 
-    "mainServerId":"ID OF THE MAIN SERVER"
+    "mainServerId":"ID OF1198251781898121346"
 }
